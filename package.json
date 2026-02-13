@@ -1,0 +1,14 @@
+{
+  "name": "github-labels",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "herokwon",
+  "description": "This is a sync tool for github labels",
+  "devDependencies": {
+    "dotenv": "^17.3.1",
+    "github-label-sync": "^3.0.0"
+  }
+}
